@@ -1,5 +1,9 @@
 # GitLab Runner with Docker Compose
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab Runner](https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
 Compose configuration for GitLab Runner using the official
 `gitlab/gitlab-runner:alpine` image.
 
